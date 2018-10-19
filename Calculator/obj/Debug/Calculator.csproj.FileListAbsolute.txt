@@ -20,7 +20,6 @@ d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bi
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\roslyn\Microsoft.Win32.Primitives.dll
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\roslyn\System.AppContext.dll
-d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\roslyn\System.Collections.Immutable.dll
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\roslyn\System.Console.dll
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\roslyn\System.Diagnostics.Process.dll
@@ -86,8 +85,8 @@ d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bi
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Microsoft.AI.WindowsServer.xml
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Microsoft.AI.Web.xml
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
 d:\users\parvanov\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Users\parvanov\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\roslyn\System.Collections.Immutable.dll

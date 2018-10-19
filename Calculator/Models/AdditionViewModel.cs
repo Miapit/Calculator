@@ -25,5 +25,11 @@ namespace Calculator.Models
             get;
             set;
         }
+
+        public string Name
+        {
+            get;
+            set;
+        }
     }
 }
